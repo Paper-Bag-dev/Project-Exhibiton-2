@@ -1,0 +1,310 @@
+state_name,district_name,block_name,panchayat_name,village_name,habitation_name,habitation_id,school_id,school_name,no_of_student,school_category,school_subcategory,update_date
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Jittena Hally","Jittena Hally",0000380225,0000060221,"GHPS JITTENA  HALLY",60,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,Kattepura,Kattepura,0000380226,0000060223,"ULPS KATTEPURA",2,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally",Madapura,Madapura,0000380240,0000060245,"LPS MADAPURA",7,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally","Ramena Hally","Ramena Hally",0000380242,0000060247,"LPS RAMENAHALLY",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,"Kutuka Marti Kaval","Kurti Marti Kaval",0000380273,0000060283,"LPSKUTUKA MARTI KAVAL",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Mallipatana,Mallipatana,0000380274,0000060285,"government HIGH SCHOOL mallipatna",142,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Koratikere,"Kortikere Kaval","Kortikere Kaval",0000380000,0001697359,"GLPS  MALLE KOPPALU",6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Koratikere,Kotekarpuravally,Kotekarpuravally,0000380001,0001699880,"GOVT URDHU  LOWER PRIMARY SCHOOL KOTERAPURAVALLY",9,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,Bannur,Bannur,0000380021,0001701982,"DIVYA JYOTHI EM HIGH SCHOOL",105,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Hanagalu,Hanagalu,0000380036,0001700846,"GHS HANGAL",71,Govt.,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,Maravalalu,"Maravalalu Colony",0000380051,0001697537,"GLPS  MARAVALALU COLONY",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Somanally,Somanally,0000380096,0001701070,"G.U.L.P.S SOMANAHALLI",4,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Chikkamagge,Hosuru,0000380101,0001701968,CHIKKAMAGGEHOSURU,12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Gangoor,Hampapura,Hampapura,0000380103,0000862731,H.P.S,75,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,Ganjalgud,Ganjalgud,0000380107,0001698454,"LAKSHMI LOWER PRIMARY SCHOOL GANJALAGUDU",32,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Hebbale,Hebbale,0000380146,0001698209,"GOVT JUNIER COLLEGE HEBBALE",238,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Gerukuppe,Gerukuppe,0000380174,0000862829,"government lps gerukuppe",3,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Kalena Hally","Kalena Hally",0000380212,0000862817,"GHS KALENAHALLY",236,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Basavana Hally","Basavanahally Koppal",0000380223,0000862816,"GHPS BASAVANA HALLY KOPPALU",72,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Mallipatana,Mallipatana,0000380274,0001700662,"malenadu higher primary school",173,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Bobbagalale,Bobbagalale,0000380296,0000060304,"government lower primary school bobbagalale",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Chowragallu,Chowragallu,0000380297,0000060306,"government lower primary school chowragallu",6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0000060308,"HPS ramanathpura",156,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Rudrapatana,Kantapura,Kantapura,0000380311,0000060321,"LPS KANTAPURA",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Hanyalu,Hanyalu,0000380315,0000060328,"GHPS HANYALU",34,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Hanyalu,Hanyalu,0000380315,0000862812,"High School",103,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,"Shyanabogana Hally","Shyanabogana Hally",0000380317,0000060333,"LPS SHYANABOGANA  HALLY",22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,"Shenavina Kuppe","Shenavina Kuppe",0000380322,0000060337,"LPS SHENAVINA KUPPE",64,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,Dummi,Dummi,0000380331,0000060343,"LPS DUMMI",7,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Seegodu,Seegodu,0000380339,0000060353,"GHPS seegodu",43,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Vijapura Forest","Vijapura Forest",0000380346,0000060359,"government High school VIJAPURA FOREST",58,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Vijapura Forest","Vijapura Forest",0000380346,0000060360,"government lower primary school vijapura forest",11,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Vijapura Forest","Harijana Colony",0000380347,0000060361,"government LPS vijapura 2 colony",25,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Yagati,Ygati,0000380390,0000060401,"HPS YAGATI",76,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Doddamagge,Doddamagge,0000380097,0001702080,"AMAR CONVENT",60,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Haralahally,Haralahally,0000380105,0001727502,"glps haralahalli",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,Kattepura,Kattepura,0000380226,0001740738,"gulps kattepura",50,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally",Thejur,Thejur,0000380245,0001704956,"GLPS  TEJURUKOPPALU",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Kerelapura,Keralapura,0000380254,0001732777,"Govt girls higher primary school keralapura",98,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Kerelapura,Keralapura,0000380254,0001733053,"NALANDA HIGHER PRIMARY SCHOOL",225,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Kerelapura,Keralapura,0000380254,0001733067,"INDIRA GHANDI RESIDENCIAL SCHOOL KERALAPURA",140,"Govt. Aided","Higher Secondary with grades 6 to 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Koratikere,Kotekarpuravally,Kotekarpuravally,0000380001,0000060001,"LPS KOTEKARPURAVALLI",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,"Kurubara Abbur","Kurubara Abbur",0000380007,0000060007,HPSkurubaraabbur,22,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,"Beerna Hally Kaval",Hosanagara,0000380014,0000060013,"HPS beernahallikaval",35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Bettasoge,Bettasoge,0000380030,0000060029,"GHPS bettasoge",49,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Dollenahally,"Dollena Hally",0000380035,0000060037,"LPS DOLLENAHALLI",21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Thattavalu,Thattavalu,0000380038,0000060040,"LPS THATTAVALU",21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Hetha Gowdana Hally","Hetha Gowdana Hally",0000380049,0000060053,"LPS HETHA GOWDANAHALLY",4,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Goravana Hally","Goravana Hally",0000380052,0000060057,"LPS GORAVANAHALLY",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,"Lakshmi Pura","Lakshmi Pura",0000380091,0000060096,"LPS LAKSHMI PURA",78,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Kodakahally,Kodakahally,0000380092,0000060097,"LPS KODAKAHALLY",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Gangoor,Gangoor,Gangoor,0000380102,0000060108,"HPS GANGOOR",106,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,Haradoor,Haradoor,0000380122,0000060127,"LPS HARADOOR",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,Keshavapura,Keshavapura,0000380125,0000060129,"LPS KESHAVAPURA",9,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,Tarigalale,Tarigalale,0000380141,0000060149,"GHPS TARIGALALE",74,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Bisalahally,Bisalahally,0000380143,0000060151,"HPS BISALAHALLY",54,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,"Gangana Hally","Gangana Hally",0000380160,0000060164,"LPS GANGANAHALU",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Holalagodu,Holalagodu,0000380165,0000060168,"government HPS HOLALAGODU",45,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Holalagodu,Holalagodu,0000380165,0000060169,"government urdhu LPS HOLALAGODU",6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,"Kakodana Hally","Kakodana Hally",0000380184,0000060185,"government LPS KAKODANA HALLY",2,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hulikallu,Kaniyar,Kaniyar,0000380208,0000060206,"government urdhu LPS kaniyar",8,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,"Madhurana Hally","Subedarana Koppalu",0000380271,0001728501,"GOVT LOWER  PRIMARY SCHOOL SUBBEDARANAKOPPALU",33,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001705141,"GPUC ramanathapura",1,Govt.,"Hr. Sec. /Jr. College only with grades 11 and 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Rudrapatana,Rudrapatna,Rudrapatna,0000380309,0001704669,"GOVT  URDHU LOWER  PRIMARY SCHOOL RUDRAPATTANA",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Saraguru,Banagundi,0000380334,0001740682,"GHPS  BANUGUNDI",28,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Agrahara,Muttugadahosur,Mutthugadahosuru,0000379997,0000059995,"LPS MUTTUGADAHOSUR",13,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Agrahara,Belikarpurvally,Belikarpurvally,0000380003,0000060004,"HPS BELIKARPURAVALLI",74,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,"Anjaneya Hosa Hally","Anjaneya Hosa Hally",0000380032,0000060032,"GLPS anjaneyahosahalli",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Belvadi,Belvadi,0000380034,0000060034,"GHPS BELVADI",121,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Hanagalu,Hanagalu,0000380036,0000060038,"GHPS HANAGALU",96,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,"Hanemarana Hally","Hanemarana Hally",0000380039,0000060041,"LPS HANEMARANAHALLI",17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,Maravalalu,Maravalalu,0000380050,0000060055,"HPS MARAVALALU",38,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,"Magge Kaval","Magge Kaval",0000380087,0000060093,"LPS MAGGE KAVAL",21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Koratikere,Nilvagilu,Nilvagilu,0000380088,0000060094,"HPS NILVAGILU",47,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,"Madike Hosally","Madike Hosally",0000380095,0000060101,"LPS MADIKE HOSAHALLY",35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Somanally,Somanally,0000380096,0000060102,"HPS SOMANAHALLY",22,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Ragimaruru,Ragimaruru,0000380106,0000060115,"HPS  RAGIMARUR",76,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Handrangi,Handrangi,0000380126,0000060131,"HPS HANDRANGI",97,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,"Channigarayana Abbur","Channigarayana Abbur",0000380127,0000060134,"LPS CHANNIGARAYANA ABBUR",4,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Akkalavadi,Akkalavadi,0000380132,0000060140,H.P.S,60,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Heggathoor,Heggathoor,0000380139,0000060147,"LPS HEGGATHOOR",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Athni,Athni,0000380152,0000060158,"HPS ATHNI",40,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,"Cholena Hally","Cholena Hally",0000380188,0000060190,"LPS cholenahalli",1,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Kashipura,Kashipura,0000380189,0000060191,HPSkashipura,24,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hulikallu,Hulikallu,Hulikallu,0000380203,0000060200,"government HPS hulikallu",109,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Heggadihalli,Muduganoor,Muduganoor,0000380205,0000060202,"government LPS muduganoor",27,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Basavana Hally","Basavana Hally",0000380221,0000060217,"GHPS BASAVANA HALLY",29,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,"Mallaraja Pattana","Mallaraja Pattana",0000380227,0000060228,"LPS MALARAJA PATTANA",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally","Kyathana Hally","Kyathana Hally",0000380238,0000060243,"LPS KYATHANA HALLY KOPPALU",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,Lakkur,"Mudala Koppalu",0000380265,0000060273,"HPS LAKKUR",157,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Sompura,Sompura,0000380269,0000060280,"HPS SOMPURA",82,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Agrahara,Doddahally,Doddahally,0000379998,0001689784,"GLPS  DODDAHALLY",28,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,Hodenoor,Hodenoor,0000380005,0000812373,"LPS HODENOOR",8,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,"Bellame (mariyanagara)","Bellame (mariyanagara)",0000380010,0001701629,"DIVYAJYOTHI HIGHER PRIMARY SCHOOL-",2662,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,"Beerna Hally Kaval",Ranganathpura,0000380015,0001701441,"GLPS  RANGANATHAPURA",5,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Karehally,Karehally,0000380042,0001700167,"GLPS KARAHALLY KOPPALU",9,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddabemmathi,"Arasikatte Kaval","Arsikatte Kaval",0000380081,0000862690,"government L.P.S arsikatte kaval",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Gangoor,Gangoor,Gangoor,0000380102,0000862729,"GOVT LOWER PRIMARY SCHOOL GANGUR KOPPALU",10,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,Ganjalgud,"Marati Koppal",0000380110,0001698439,"GLPS  MARATIUPPAR KOPPALU",19,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Hebbale,"Hebbale Colony",0000380148,0000862800,"L P.S",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hulikallu,Hulikallu,Hulikallu,0000380203,0001699081,"government high school hulikalu",185,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Mallipatana,"Besthara Koppalu",0000380276,0001700850,"pavithra higher primary school",38,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Rudrapatana,Mathigodu,Mathigodu,0000380314,0000060326,"LPS MATHIGODU",29,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,"Dadada Hally","Dadada Hally",0000380324,0000060339,"HPS DADADA HALLY",50,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,Dummi,Dummi,0000380331,0000862860,H.P.S,76,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Siddapura,Siddapura,0000380335,0000060347,"GHPS siddapura",59,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,"Ullena Hally","Ullena Hally",0000380340,0000060355,"LPS ullenahalli",37,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,"Kadivana Hosahally","Kadivana Hosahally",0000380341,0001323560,"GLPS KADUVINAHOSAHALLI GATE",31,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Vijapura Forest","Vijapura Forest",0000380346,0001690992,"government lower primary school gandhinagara",7,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Aremadana Hally","Aremadana Hally",0000380354,0000431711,"government LPS BIDIRUMELEKOPPALU",7,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest",Mudigere,Mudigere,0000380367,0000060380,"government lower primary school mudigere",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally","Nerala Hally","Nerala Hally",0000380374,0000060387,"LPS NERALA HALLY",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,"Vaddara Hally","Vaddara Hally Colony",0000380395,0001700716,"GLPS JODIVADDARAHALLY COLONY",22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Madlapura,Madlapura,0001833125,0001700376,"government L.P.S madlapura",17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Basvapatna,Basvapatna,0000380026,0001738855,"GHPS GARUDANAHALLY",47,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Doddamagge,Doddamagge,0000380097,0001702130,DR.B.R.AMBEDKAR,145,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Doddamagge,Doddamagge,0000380097,0002735032,"Gpuc Doddamagge",196,Govt.,"Hr. Sec. /Jr. College only with grades 11 and 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Handrangi,Handrangi,0000380126,0001728296,"VIVEKANANDA VIDYA SAMSTHE",161,Private,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Kalena Hally","Kalena Hally",0000380212,0001733114,"GLPS KALENAHALLI KOPPALU",20,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001704544,"GOVT URDHU HIGHER PRIMARY SCHOOL KONANUR",19,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001703976,"GOVT GIRLS HIGHER PRIMARY SCHOOL KONANURU",124,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001704095,"GOVT BOYS HIGHER  PRIMARY SCHOOL KONANURU(TGT)",103,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,Lakkur,"Padavala Koppalu",0000380266,0001727650,"glps p. koppalu",36,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001705127,"glps ramanathapura",11,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001705177,"venkateswara high school",121,"Govt. Aided","Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001705188,"venkateswara high school eng",98,Private,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Kudlur,Kudlur,0000380306,0001729231,"GLPS  KUDALUR",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Rudrapatana,Rudrapatna,Rudrapatna,0000380309,0001728641,"VIDYA SHANKARA HIGH SCHOOL  RUDRAPATTANA",141,Private,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Siddapura,"Siddapura Gate",0000380336,0001732726,"GOVT JUNIOR COLLEGE SIDDAPRA GATE",137,Govt.,"Higher Secondary with grades 6 to 12",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally","Ankanayakana Hally","Ankanayakana Hally",0000380380,0001702111,"GLPS ANKANAYAKANAHALLY  COLONY",13,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,Santhemaruru,Santhemaruru,0000380316,0001223870,"Santhemaruru High school(TGT)",150,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,Dummi,"Dummi Koppalu",0000380332,0001698250,"GOVT LOWER  PRIMARY SCHOOL DUMMIKOPPAL",9,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Aremadana Hally","Aremadana Hally",0000380354,0000060371,"government LPS aremadanahally",3,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest",Chikkarakalagud,Chikkarakalagud,0000380358,0000060374,"government HPS CHIKKARAKALAGUD",34,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest",Kallur,Kallur,0000380362,0000060376,"government lower primary school kalluru",4,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally",Maradi,Maradi,0000380375,0000060389,"LPS MARADI",13,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally",Shambunathapura,Shambunathapura,0000380385,0000060396,"HPS SHAMBUNATHAPURA",58,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,"Vaddara Hally","Vaddara Hally",0000380394,0001700653,"GLPS  JODIVADDARAHALLY",17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,"Mallithammana Hally","Mallithammana Hally",0000380397,0000060408,"LPS. MARITHAMANAHALLY",17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Ibbadi,Ibbadi,0000380398,0000060409,"HPS IBBADI",66,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Basvapatna,Basvapatna,0000380026,0001738630,"GOVT JUNIOR COLLEGE BASAVAPATTANA",216,Govt.,"Higher Secondary with grades 6 to 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,Madapura,Madapura,0000380232,0001725310,"ghps madapura",25,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,"Yalada Hally","Yalada Hally",0000380233,0001727080,"glps yaladahalli",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Mokali,Mokali,0000380246,0001702058,"WISDOM VALLEY",94,Private,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Kerelapura,Keralapura,0000380254,0001732783,"Govt boys higher primary school keralapura",67,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001703997,"ADHI KARNATAKA LOWER PRIMARY SCHOOL  KONANUR",31,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001704163,"KITTUR RANI CHENAMMA RESIDENTIAL SCHOOL KONANUR",212,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,"Kere Kodi",0000380260,0001703933,"GOVT JUNIEOR COLLEGE KONANURU",56,Govt.,"Hr. Sec. /Jr. College only with grades 11 and 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Goredinne,0000380261,0001728934,"GLPS  GOREDINNE",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001705208,"evergreen high school",65,Private,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001705223,vidhyanikethan,112,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,Kattepura,Kattepura,0000380226,0000060224,"HPS KATTEPURA",70,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,"Mallinatha Pura","Mallinatha Pura",0000380228,0000060229,"HPS MALLINATHA PURA",47,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,Gobbali,Gobbali,0000380229,0000060231,"LPS GOBBALI",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Mallipatana,Mallipatana,0000380274,0000060284,"government HPS Mallipatana",116,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Agrahara,Agrahara,Kodagihally,0000379995,0001434482,GHPS,50,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Hetha Gowdana Hally","Hetha Gowdana Hally",0000380049,0001697523,"BETHEL PUBLIC SCHOOL GUBBI CROSS",438,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Doddamagge,Doddamagge,0000380097,0001702015,"DODDAMAGGE  G.J.C.",163,Govt.,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Athni,"Uppar Koppalu",0000380154,0000862797,"L P.S",6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Hullangala,A.k.colony,0000380158,0000862803,L.P.S,19,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Holalagodu,Holalagodu,0000380165,0001323537,"Government LPS LAKSHMIPURA",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Malalikere,Malalikere,0000380248,0001323541,"GHPS MALIKERE",55,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,"Kere Kodi",0000380260,0000862824,"GOVT HIGHER  PRIMARY SCHOOL KEREKODI",50,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Mallipatana,Mallipatana,0000380274,0001700606,"government murarji residential school mallipatna",174,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Magodu,"H.r.p. Colony",0000380278,0000060287,"government LPS magodu",10,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,"Koti Agrahara","Koti Agrahara",0000380282,0000060291,"government LPS kotiagrahara",10,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Aladahalli,Kelagalale,Kelagalale,0000380285,0000060294,"government LPS kelagalale",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Aladahalli,Hippali,Hippali,0000380287,0000060295,"government LPS hippali",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0000060310,"ULPS ramanathpura",1,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0000610475,"PATTABIRAMAGRAMANTHARA UP",118,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,"Siradana Hally","Siradana Hally",0000380304,0000060314,"GLPS sirdanahalli",11,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Rudrapatana,Rudrapatna,Rudrapatna,0000380309,0000060319,"HPS RUDRAPATNA(TGT)",131,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Rudrapatana,Anandur,Anandur,0000380312,0000060322,"HPS ANANDUR",89,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Agrahara,Muglur,Muglur,0000379996,0000059993,"HPS MUGALUR",57,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,Kantenahally,Kantenahally,0000380009,0000060010,LPSkantenahalli,51,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,Kadanoor,Kadanoor,0000380017,0000060014,"HPS kadsnoor",32,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,Doddabommenahally,"Doddabommena Hally",0000380019,0000060017,LPSdoddabommenahalli,26,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,Bannur,Bannur,0000380021,0000060020,"High SChool bannur",56,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,Aregallu,Aregallu,0000380022,0000060021,LPSaregallu,6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Mulehosahally,"Mule Hosahally",0000380033,0000060033,"GLPS mulehosahalli",24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Karehally,Karehally,0000380042,0000060044,"GHPS KAREHALLY",9,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Bychana Hally","Bychana Hally",0000380045,0000060047,"HPS BYCHANAHALLI",58,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,Devipura,Devipura,0000380055,0000060059,"LPS DEVIPURA",17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Doddamagge,Doddamagge,0000380097,0000060104,"HPS DODDAMAGGE",202,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,Ganjalgud,Ganjalgud,0000380107,0000060117,"HIgh School GANJALAGUD",63,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,"Moodana Hally","Moodana Hally",0000380117,0000060122,"LPS MOODANA HALLY",25,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Handrangi,Handrangi,0000380126,0000060132,"ULPS HANDRANGI",4,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,Karagallu,Karagallu,0000380136,0000060144,"LPS KARAGALLU",8,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Magalu,Magalu,0000380167,0000060172,"government HPS MAGALU",45,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,"Singana Kuppe","Singana Kuppe",0000380172,0000060175,"government LPS SINGANA KUPPE",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Nilakunda,Nilakunda,0000380173,0000060176,"government LPS NILAKUNDA",13,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Abburmachagowdahally,Abburmachagowdanahally,0000380175,0000060177,"government HPS ABBURMACHAGOWDANAHALLY",63,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Kollangi,Kollangi,0000380177,0000060179,"government LPS KOLLANGI",23,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Garighatta,Garighatta,0000380186,0000060187,"LPS garighatta",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Devarahally,"Devara Hally",0000380195,0000060196,"HPS devarahalli(TGT)",74,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hulikallu,"Bettada Hally","Bettada Hally",0000380210,0000060210,"government LPS beetadahalli",41,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,Santhemaruru,Santhemaruru,0000380316,0000060331,"High school SANTHEMARURU",180,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,"Parasana Hally","Parasana Hally",0000380320,0000060336,"HPS PARAANAHALLY",40,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Madihally,Madihally,0000380327,0000060342,"HPS MADIHALLY",70,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Madihally,Madihally,0000380327,0001701502,"MADIHALLI COLONY",27,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Saraguru,Saraguru,0000380333,0000060345,"GHPS saraguru",81,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Siddapura,"Siddapura Gate",0000380336,0000060348,"GLPS siddapura gate",8,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,"Ramena Hally","Ramena Hally",0000380337,0000060352,"GLPS ramenhalli",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Adikebommana Halli","Adikebommana Hally",0000380355,0000060372,"government LPS adikebomanahally",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest",Chikkarakalagud,"A.k Colony",0000380361,0000799308,"ghps chikkarakalagud colony(vpura forest)",53,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally","Ankanayakana Hally","Ankanayakana Hally",0000380380,0000060392,"HPS ANKANAYAKANA HALLY",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Ajjuru,Ajjuru,0000380396,0000060406,"HPS AJJURU",36,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Rangapura,Rangapura,0000380400,0000060411,"LPS. RANGAPURA",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Basvapatna,Basvapatna,0000380026,0001738520,"Govt boys higher primary school BASAVAPATNA",204,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Basvapatna,"Badara Koppal",0000380027,0001738591,"GLPS BEDARAKOPPALU",10,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Gangoor,Gangoor,Gangoor,0000380102,0001727202,"nehru smaraka gramanthara",102,"Govt. Aided","Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Ragimaruru,Ragimaruru,0000380106,0001727461,"varanandi high school",168,"Govt. Aided","Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Abburmachagowdahally,Abburmachagowdanahally,0000380175,0001702109,"government urdhu HPS ABM hally",40,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Holalagodu,Abburmachagowdahally,Abburmachagowdanahally,0000380175,0001702075,"goverment high school ABM hally",171,Govt.,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Kalena Hally",Borekoppalu,0000380213,0001733094,"GLPS BOREKOPPALU",21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally","Kathimallena Hally","Kathimallena Hally",0000380236,0001705006,"GHS   KATHIMALLENAHALLY",72,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001704070,"MKS LIONS VIDYANIKETHANA KONANUR",574,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001728135,"GOVT LOWER  PRIMARY SCHOOL SUBRAMANYA NAGARA",6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001709998,"lakshmi narasimha",54,Private,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,"Kadivana Hosahally","Kadivana Hosahally",0000380341,0001960633,"GOVT HIGHER PRIMARY SCHOOL KADAVINAHOSAHALLY",52,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally","Vaddara Hally","H.r.p Colony",0000380373,0001702076,"GHPS  HRP COLONY",37,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Yachana Kuppe","Yachana Kuppe",0000380224,0000060219,"GLPS YACHANA KUPPE",22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,Kattepura,Kattepura,0000380226,0000060225,"High school KATTEPURA",50,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally",Mundagodu,Mundagodu,0000380237,0000060241,"HPS MUNDAGODU",16,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally",Harohally,Harohally,0000380239,0000060244,"LPS HARIHALLY",22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally",Thejur,Thejur,0000380245,0000060249,"HPS THEJUR",26,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Mokali,Mokali,0000380246,0000060250,"GLPS   DODDANAYAKANAKOPPALU",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,"Honnena Hally","Honnena Hally",0000380256,0000060257,"GLPS honnenahalli",13,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Boodanoor,Boodanoor,0000380257,0000060259,"GHPS boodanoor",28,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,Keragodu,Keragodu,0000380268,0000060278,"HPS KERAGODU",43,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Agrahara,Agrahara,Agrahara,0000379994,0001697394,"ADHARSHA HIGH SCHOOL AGRAHARA",123,"Govt. Aided","Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Belvadi,Belvadi,0000380034,0001700889,"JNANA JYOTHI VIDYA SAMSTHE BELAVADI",147,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Belvadi,Belvadi,0000380034,0001700778,"GJC BELAVADI",122,Govt.,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Hanagalu,Hanagalu,0000380036,0001700333,"GLPS HANGAL KOPPALU",16,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Ankanhally,"Kunana Koppal",0000380041,0001700577,"GLPS KOONANAKOPPALLU",27,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Bychana Hally","Bychana Hally",0000380045,0001697581,"RURAL JUNIER COLLEGE BYCHANAHALLY",207,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Hetha Gowdana Hally","Hetha Gowdana Hally",0000380049,0001697498,"GLPS  HETHAGOWDANAHALLY COLONY",18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Honnavally,Honnavally,0000380197,0001697735,"HEMAVATHI HIGH SCHOOL HONNAVALLI",113,Private,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Hulikallu,Hulikallu,Hulikallu,0000380203,0001699080,"government L.P.S AD colony",17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hulikallu,Kaniyar,Kaniyar,0000380208,0000862834,"government H.P.S kaniyar",117,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Mokali,Mokali,0000380246,0001701807,MOKALI,29,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,"Madhurana Hally","Madhurana Hally",0000380270,0000862809,H.P.S,83,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,Manajur,Manajur,0000380279,0000060288,"government lower primary school manajur",11,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Aladahalli,"Alada Hally","Alada Hally",0000380292,0000060299,"government LPS aladahalli",9,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001702007,"SRI LAKSHMI NARASIMHA VIDYA SAMSTE",51,Private,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Bilaguli,Bilaguli,0000380302,0000060312,"HPS bilaguli",107,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Kaduvinahosahalli,Kadanoor,"Kadanoor Koppal",0000380018,0000060015,LPSkadanoor,35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Hanagalu,Hosur,0000380037,0000060039,"GLPS HANAGALLU",8,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Chikkana Hally","Chikkana Hally",0000380046,0000060049,"LPS CHIKKANAHALLY",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Kallimuddana Hally","Kallimuddana Hally",0000380048,0000060051,"HPS KALLIMUDDANAHALLI",28,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Koratikere,"Muddana Hally","Muddana Hally",0000380090,0000060095,"LPS  MUDDANAHALLY",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Gangoor,Jogihosahally,Jogihosahally,0000380104,0000060112,"HPS JOGHIHOSAHALLY",55,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,"Annigana Hally","Annigana Hally",0000380111,0000060120,"HPS ANNIGANAHALLY",33,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Handrangi,Handrangi,0000380126,0000060130,"GHS HUNDRANGI",97,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Kesavathur,Kesavathur,0000380128,0000060135,"HPS KESAVATHUR",100,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,Honaganahally,Honaganahally,0000380135,0000060143,"LPS HONGANAHALLY",6,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Hebbale,Hebbale,0000380146,0000060154,"HPS HEBBALE",51,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,Hullangala,Hullangala,0000380157,0000060162,"HPS HULLANGALA",47,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hebbale,"Narasina Kuppe",Narasinakuppe,0000380162,0000060165,"LPS NARASINA KUPPE",5,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Heggadihalli,"Ambigowdana Hally","Ambigowdana Hally",0000380182,0000060183,"government LPS AMBIGOWDANAHALL",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Nelamane,Nelamane,0000380190,0000060193,"LPS nelamane",15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Honnavally,Honnavally,0000380197,0000060198,"HPS honnavalli",103,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Heggadihalli,Heggadihally,Heggadihally,0000380211,0000060212,"government HPS heggadihalli",67,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Kalena Hally","Kalena Hally",0000380212,0000060214,"GHPS KALENA HALLY",90,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Hanyalu,Hanyalu,0000380315,0001323550,"GLPS KATYALU BARE",11,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Santhemaruru,"Illa Hally","Illa Hally",0000380319,0000060335,"LPS ILLA HALLY",22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,Siddapura,Siddapura,0000380335,0000060350,"ULPS siddapura",10,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest","Kendinne Kaval","Kendinne Kaval",0000380348,0000799280,"government lower primary school kendinne kaval",24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vijapura Forest",Thattekere,Thattekere,0000380364,0000060377,"government LPS thattekere",14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally","Vaddara Hally","Vaddara Hally",0000380372,0000060386,"HPS VADDARAHALLY",25,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Vaddara Hally","Honna Gowdana Hally","Honna Gowdana Hally",0000380378,0000060391,"LPS HONNA GOWDANA HALLY",11,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Yalagathavally,Yalagathavally,0000380388,0000060399,"HPS YALAGATHAVALLY",60,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Yalagathavally,Yalagathavally,0000380388,0001698368,"GHS  YALAGATHAVALLI",74,Govt.,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Basvapatna,Basvapatna,0000380026,0001738549,"SHARADA VIDYA SAMSTHE",235,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Basvapatna,Basvapatna,Basvapatna,0000380026,0001738669,"SCVDS H.S BASAVAPATTANA",159,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Barguru,Barguru,0000380093,0001702104,"MORARJI DESAI",199,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Kesavathur,Kesavathur,0000380128,0001740595,"GLPS  K SHED",13,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,"Sulugodu Somawara","Sulugodu Somawara",0000380133,0001732646,"LPS SULUGODU SOMAVARA",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kalena Hally","Kalena Hally","Kebbe Koppalu",0000380214,0001733105,"GLPS KEBBEKOPPALU",8,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Kattepura,"Gobbali Kaval","Gobbali Kaval",0000380231,0001710216,"ghps gobbali kaval",51,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Mokali,Mokali,0000380246,0001702036,"MOKALI GHS",141,Govt.,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Kerelapura,Keralapura,0000380254,0001732786,"Dr. SRK CONVENT KERALAPURA",195,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Keralapura,Kerelapura,Keralapura,0000380254,0001733048,"Vidyaganapathi high school keralapura",104,Private,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Konanur,Konanur,Konanur,0000380259,0001704037,"B.V.M BALIKA H.S.KONANUR",103,Private,"Secondary/Sr. Sec. only with grades 9 and 10",2023-01-18
+Karnataka,Hassan,Arkalgud,Lakkur,"Madhurana Hally","Madhurana Hally",0000380270,0001704651,"GOVT URDHU  LOWER  PRIMARY SCHOOL MADHURANAHALLY",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001709922,kuvempu,65,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Ramanathpura,Ramanathpura,0000380301,0001709960,"jsp hps",84,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Saraguru,"Ullena Hally","Ullena Hally",0000380340,0001704298,"NALANDA PUBLIC SCHOOL ULLENAHALLY",262,Private,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Yalagathavally,Yagati,"Karigowdana Koppalu",0000380393,0002125064,"GLPS  KARIGOWDANAKOPPALU",21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Koratikere,Kortikere,Kortikere,0000379999,0000059999,"HPS KORTIKERE",51,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Ankanhally,"Ankana Hally",0000380040,0000060043,"GLPS ANKANAHALLI",3,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Belvadi,Seebally,Seebahally,0000380044,0000060046,"GLPS SEEBALLY",25,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"P.chakena Hally","P.chakena Hally",0000380053,0000060058,"LPS P.CHAKANAHALLY",24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Bychanahally,"Doddagavana Hally","Doddagavana Hally",0000380056,0000060060,"HPS DODDAGAVANAHALLY",39,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddamagge,Barguru,Barguru,0000380093,0000060099,"HPS BARAGURU",32,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,Majjanahally,Majjanahally,0000380130,0000060137,"GHPS MANJANAHALLY",34,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Aladahalli,Musavathur,Musavathur,0000380180,0000060181,"government HPS MUSAVATHUR",44,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Mokali,Muthige,Muthige,0000380187,0000060189,"HPS muthige",41,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Honnavally,Naigere,Naigere,0000380191,0000060194,"HPS naigere",28,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Heggadihalli,Allapatna,Allapatna,0000380209,0000060208,"government hPS allapatna",49,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,"Kathimallena Hally","Kathimallena Hally","Kathimallena Hally",0000380236,0000060239,"HPS KATHIMALLENAHALLY(TGT)",88,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Hanyalu,Mallapura,Mallapura,0000380267,0000060276,"HPS MALLAPURA",60,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Bannur,Bannur,Bannur,0000380021,0001701937,"GHPS  BANNUR SANTHEMALA",22,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Tarigalale,Chikkabommenahally,"Chikkabommena Hally",0000380023,0000812408,"LPS CHIKKABONNAHALLI",22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Doddabemmathi,Doddabemmathi,Doddabemmathi,0000380071,0000862697,"GPUC DODDABEMATHI",31,Govt.,"Hr. Sec. /Jr. College only with grades 11 and 12",2023-01-18
+Karnataka,Hassan,Arkalgud,Ganjalgud,Ganjalgud,Ganjalgud,0000380107,0001698446,"GHPS  GANJALAGUD 8UP",91,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Karnataka,Hassan,Arkalgud,Handrangi,Heggathoor,Heggathoor,0000380139,0001323553,"GLPS HEGGATHOORU KOPPALU",9,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Mallipatana,"Siradana Hally","Siradana Hally",0000380284,0000060292,"government LPS siradanahalli",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Karnataka,Hassan,Arkalgud,Ramanathpura,Bilaguli,"Ramana Koppalu",0000380303,0000862810,"GLPS RAMANAKOPPALU",30,Govt.,"Primary only with grades 1 to 5",2023-01-18

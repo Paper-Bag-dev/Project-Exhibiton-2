@@ -1,0 +1,135 @@
+state_name,district_name,block_name,panchayat_name,village_name,habitation_name,habitation_id,school_id,school_name,no_of_student,school_category,school_subcategory,update_date
+"Tamil Nadu",Chengalpattu,Maduranthakam,Andavakkam,Andavakkam,Andavakkam,0000945685,0000391405,PUPS,25,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Arungunnam,Arungunam,Arungunam,0000945698,0000391410,PUMS,141,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Averimedu,Avirimedu,Chitravadi,0000945706,0000391412,PUPS,40,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Chinnavenmani,Chinnavenmani,Chinnavenmani,0000945724,0000391418,PUPS,33,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Gendrachery,Gendracheri,Gendrachery,0000945730,0000391420,PUPS,49,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kavadur,Kavadur,Mariputhur,0000945754,0000391428,PUPS,34,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kallapiranpuram,Kallabiranpuram,Athimanam,0000945763,0000391429,PUPS,38,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kumaravadi,Kumaravadi,Kumaravadi,0000945777,0000391435,PUPS,22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kilakandai,Kilakandai,Keelakandai,0000945781,0000391437,PUPS,28,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Lakshminarayanapuram,Lakshminarayanapuram(pallipat,Lakshminarayanapuram,0000945797,0000391443,PUMS,110,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mangalam,Mangalam,Mangalam,0000945811,0000391448,PUPS,18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Munnithikuppam,Munuthikuppam,Mulli,0000945826,0000391456,PUPS,15,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Netrampakkam,Netrambakkam,240.chithamur,0000945868,0000391471,PUPS,19,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Onampakkam,Onampakkam,Onambakkam,0000945880,0000391477,PUPS,77,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Padalam,Padalam,Padalam,0000945884,0001184036,"MCSM GHSS",250,Govt.,"Higher Secondary with grades 6 to 12",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vaiyavoor,Vaiyavur,Malaivaiyavoor,0000945960,0000391504,PUPS,100,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Veeranakunnam,Veeranakunnam,Veeranakunnam,0000945965,0000391506,GHS,139,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vettur,Vettur,Salaiyur,0000945972,0000391509,PUPS,35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vilvarayanallur,Vilvarayanallur,Vilvarayanallur,0000945976,0000391512,"DURAISAMY MIDDLE SCHOOL",94,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Bukkathurai,Bukkathurai,Bukkathurai,0000945709,0001668267,GHS,201,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Budur,Budur,"Budur Village",0000945717,0001185273,"Government High School",250,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Irumbedu,Irumbedu,Irumbedu,0000945734,0001667881,"ADW HIGH SCHOOL",181,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kattudevadur,Kattudevadur,Kattudevadur,0000945741,0001662543,PUMS,86,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,Kinar,0000945767,0001662565,PUMS,67,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,"K K Budur",0000945769,0001667218,"RC PRIMARY SCHOOL",73,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,"K K Budur",0000945769,0001667253,"RC PRIMARY SCHOOL GIRLS",67,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Neerpair,Neerpair,Neerpair,0000945842,0001667285,"RC PRIMARY SCHOOL",70,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Netrampakkam,Netrambakkam,Netrampakkam,0000945863,0001667657,"ADW PRIMARY SCHOOL",27,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nelli,Nelli,Kunnankolahur,0000945874,0001185336,PUPS,42,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Saravampakkam,Saravampakkam,Saravambakkam,0000945921,0001818200,"BHARATHI METRICULATION HIGHER SEC SCHOOL",186,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Sirunallur,Sirunallur,Sirunallur,0000945928,0001667170,"MUTHUMALA MIDDLE SCHOOL",111,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Soorai,Soorai,Soorai,0000945944,0001662280,PUPS,44,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Silavattam,Silavattam,Silavattam,0001870922,0001662630,PUMS,106,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Averimedu,Avirimedu,Averimedu,0000945704,0000391411,PUPS,33,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Karunakaracheri,Karunagaracheri,Karunakarachery,0000945744,0000391424,"PUPS II",28,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kilakandai,Kilakandai,Dharmapuram,0000945783,0000391438,PUPS,22,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kunnathur,Kunnathur,"Kunnathur Village",0000945792,0000391442,PUMS,69,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Meyyur,Maiyur,"Meyyur Village",0000945815,0000391451,PUPS,37,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Munnithikuppam,Munuthikuppam,Kathiricheri,0000945824,0000391455,PUPS,61,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nallamur,"Nallamur Keelakaranai",Nallamur,0000945830,0000391458,PUMS,96,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nallur,Nallur,Nallur,0000945835,0000391460,PUPS,17,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Neerpair,Neerpair,Neelamangalam,0000945845,0000391464,PUPS,18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Neerpair,Neerpair,Melvasalai,0000945849,0000391466,PUPS,21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mamandur,Mamandur,Thenpathi,0001870555,0000391446,PUMS,104,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,Eruvakkam,0000945774,0001084650,PUPS,37,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nethapakkam,Nethapakkam,Nethapakkam,0000945856,0000391468,PUPS,55,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Puliyarankottai,Puliyaranankottai,Puliyarankottai,0000945916,0000391494,PUPS,24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Soorai,Soorai,Chithamangalam,0000945950,0000391500,PUPS,23,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Thonnadu,Thonnadu,Thonnadu,0000945952,0000391501,"ADW PRIMARY SCHOOL",30,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Zaminbudur,Z.budur,Zaminbudur,0000945985,0000391515,PUMS,37,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Andavakkam,Andavakkam,Melma,0000945692,0001660643,PUPS,26,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Bukkathurai,Bukkathurai,Bukkathurai,0000945709,0001662293,PUPS,54,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,Kinar,0000945767,0001667417,"CSI PRIMARY SCHOOL",20,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kilakandai,Kilakandai,Melakandai,0000945779,0001819210,"Sasi shobana Nursaray School",5,Private,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mamandur,Mamandur,Athankarai,0000945806,0001818256,"VIDYAMANDIR HR SEC SCHOOL",15,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Meyyur,Maiyur,Ambedkarnagar,0000945817,0001660774,PUPS,41,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pudupattu,Pudupattu,Pasumbur,0000945904,0001667379,"CSI PRIMARY SCHOOL",20,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Puliyarankottai,Puliyaranankottai,Keeralvadi,0000945919,0001667455,"CSI PRIMARY SCHOOL",21,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Soorai,Soorai,"Puluthivakkam Village",0000945946,0001662636,PUMS,141,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vilvarayanallur,Vilvarayanallur,Govintharajapuram,0000945978,0001818409,"SUBHAM VIDYALAYA CBSE SCHOOL",16,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Zaminendathur,Z.endathur,Zaminendathur,0000945989,0001819095,"VIVEKANANDHA VIDHYALAYA METRIC SCHOOL",10,Private,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Budur,Budur,Essur,0000945722,0000391417,PUMS,119,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Devadur,Devadur,"Devadur Village",0000945727,0000391419,"ADW MIDDLE SCHOOL",80,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Lakshminarayanapuram,Lakshminarayanapuram(pallipat,Pathur,0000945801,0000391444,"ADW SCHOOL",30,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mamandur,Mamandur,"Vadapathi Village",0000945807,0000391447,PUMS,81,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mangalam,Mangalam,Indrapuram,0000945813,0000391450,PUPS,33,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nallur,Nallur,Pavundankaranai,0000945840,0000391462,PUPS,24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nesapakkam,Nesapakkam,Nesapakkam,0000945851,0000391467,PUPS,18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Onampakkam,Onampakkam,Onambakkam,0000945880,0000391478,PUHS,303,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Onampakkam,Onampakkam,"Onambakkam Colony",0000945882,0000391479,PUPs,23,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Padalam,Padalam,Padalam,0000945884,0000391480,"MCSM SCHOOL",138,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Padalam,Padalam,Puliparakoil,0000945887,0000391481,"CSI PRIMARY SCHOOL",50,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pakkam,Pakkam,"Pakkam Village",0000945889,0000391483,PUPS,77,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pakkam,Pakkam,"Pakkam Village",0000945889,0001185270,"Government High School",110,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pakkam,Pakkam,Thathankuppam,0000945891,0000391484,PUPS,30,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pilappur,Pilappur,Pilappur,0000945895,0000391486,PUPS,52,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Palayanur,Palayanur,"Palayanur Village",0000945897,0000391488,"ADW SCHOOL",12,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pudupattu,Pudupattu,"Pudupattu Village",0000945900,0000391489,PUMS,108,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Veeranakunnam,Veeranakunnam,Veeranakunnam,0000945965,0000391505,PUPS,80,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Veeranakunnam,Veeranakunnam,Keelapattu,0000945968,0000391507,PUPS,24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Viralur,Viralur,Devanur,0000945982,0000391514,PUPS,19,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Zaminendathur,Z.endathur,Zaminendathur,0000945989,0000391517,GHS,186,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Karunakaracheri,Karunagaracheri,Palliagaram,0000945747,0001818386,"UDHAYAN SEPECIAL CHALLENGED PERSON SCHOOL",10,Private,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,"K K Budur",0000945769,0001668350,"ST SUSAIYAPPAR HIGHER SEC SCHOOL",182,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kunnathur,Kunnathur,"Thatchur Village",0000945794,0001667313,"RC MIDDLE SCHOOL",196,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Sithandi,Sithandi,"Sidhandi Mandapam",0000945939,0001668195,GHS,230,Govt.,"Secondary/Sr. Sec. with grades 6 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Viralur,Viralur,Nagamalai,0000945980,0001660849,PUPS,14,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Saravampakkam,Saravampakkam,"Ngo Nagar",0001688646,0001818231,"PRINCE NURSARY AND PRIMARY SCHOOL",96,Private,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Bukkathurai,Bukkathurai,Bukkathurai,0000945709,0000391413,PUPS,83,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Irumbedu,Irumbedu,Irumbedu,0000945734,0000391422,"ADW SCHOOL",35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Karunakaracheri,Karunagaracheri,Palliagaram,0000945747,0000391426,PUPS,39,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kilakandai,Kilakandai,Athivakkam,0000945786,0000391439,PUPS,71,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Keelavalam,Keelavalam,Keelavalam,0000945789,0000391440,PUPS,34,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mangalam,Mangalam,"Mangalam Colony",0000945812,0000391449,PUPS,18,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Munnithikuppam,Munuthikuppam,Munnithikuppam,0000945819,0000391453,PUMS,77,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Munnithikuppam,Munuthikuppam,Valarpirai,0000945821,0000391454,"CSI PRIMARY SCHOOL",18,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nallur,Nallur,"Vazhapattu Nemili",0000945839,0000391461,PUPS,29,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Neerpair,Neerpair,Neerpair,0000945842,0000391463,"DR.ARULAPPA HIGHER SECONDARY SCHOOL",382,"Govt. Aided","Higher Secondary with grades 6 to 12",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nethapakkam,Nethapakkam,Vasanthavadi,0000945858,0000391469,PUPS,35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nelv0y,Nelvoy,Nelvoy,0000945876,0000391476,PUMS,159,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Padalam,Padalam,Padalam,0000945884,0001121213,PUMS,90,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pudupattu,Pudupattu,Sathamai,0000945906,0000391490,PUPS,34,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Peruveli,Peruveli,Peruveli,0000945912,0000391492,PUMS,88,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Sirunallur,Sirunallur,Mudukarai,0000945929,0000391495,PUMS,121,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vaiyavoor,Vaiyavur,Vaiyavoor,0000945953,0000391502,PUMS,151,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vettur,Vettur,Vettur,0000945971,0000391508,"ADW SCHOOL",10,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vettur,Vettur,Vilanganur,0000945974,0000391510,PUPS,19,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Vettur,Vettur,"Madura Gurupatha Medu",0000945975,0000391511,PUPS,24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Zaminendathur,Z.endathur,Olavetti,0000945994,0000391518,PUPS,32,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Zaminendathur,Z.endathur,Maruvalam,0000945995,0000391519,PUMS,33,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Andavakkam,Andavakkam,"Vedavakkam Village",0000945689,0001662703,PUMS,91,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Janakipuram,"Janakipuram (sanur)",Janakipuram,0000945736,0001667784,"ADW MIDDLE SCHOOL",2,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kallapiranpuram,Kallabiranpuram,Valluvapakkam,0000945762,0001667909,PUHS,289,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kinar,Kinar,Thottanaval,0000945771,0001662728,PUMS,219,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mamandur,Mamandur,"Kamaraj Colony",0000945805,0001818270,"SALOM SCHOOL",6,Private,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Mangalam,Mangalam,"Nelvoy Koot Road",0000945814,0001661158,PUPS,35,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Netrampakkam,Netrambakkam,Kollambakkam,0000945866,0001659894,PUPS,24,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Ariyanur,Ariyanur,Ariyanur,0000945696,0000391409,PUPS,20,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Karunakaracheri,Karunagaracheri,Palliagaram,0000945747,0000391425,"ADW PRIMARY SCHOOL",7,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kavadur,Kavadur,Kavadur,0000945751,0000391427,PUMS,119,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Kilakandai,Kilakandai,Melakandai,0000945779,0000391436,PUPS,33,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Murukkampakkam,Murrukkambakkam,Murukkampakkam,0000945828,0000391457,PUPS,41,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nallamur,"Nallamur Keelakaranai","Keelkaranai Old Colony",0000945832,0000391459,PUPS,21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nelli,Nelli,Nelli,0000945871,0000391473,PUPS,45,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Nelli,Nelli,Kunnankolahur,0000945874,0000391474,GHSS,180,Govt.,"Higher Secondary with grades 6 to 12",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Pazhamathur,Pzhamathur,Pazhamathur,0000945893,0000391485,PUMS,136,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Palayanur,Palayanur,"Palayanur Village",0000945897,0000391487,PUMS,170,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Periavenmani,Periavenmani,Periavenmani,0000945907,0000391491,PUMS,51,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Peruveli,Peruveli,"Paiyambodi Village",0000945914,0000391493,PUPS,19,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Sithandi,Sithandi,"Sidhandi Mandapam",0000945939,0000391497,PUPS,96,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Zaminendathur,Z.endathur,Zaminendathur,0000945989,0000391516,PUPS,140,Govt.,"Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Andavakkam,Andavakkam,Andavakkam,0000945685,0001667530,"CSI PRIMARY SCHOOL",40,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Arayapakkam,Arayapakkam,Arayapakkam,0000945694,0001662532,PUMS,93,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+"Tamil Nadu",Chengalpattu,Maduranthakam,Meyyur,Maiyur,"Meyyur Village",0000945815,0001818301,"VIDYAMANDIR HIGH SCHOOL",10,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18

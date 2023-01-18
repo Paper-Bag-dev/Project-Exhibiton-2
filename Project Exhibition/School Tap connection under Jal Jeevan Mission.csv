@@ -1,0 +1,81 @@
+state_name,district_name,block_name,panchayat_name,village_name,habitation_name,habitation_id,school_id,school_name,no_of_student,school_category,school_subcategory,update_date
+"Andhra Pradesh",Kadapa,Veeraballi,Sangamvandlapalli,Peddiveedu,Ragimanudinnepalli,0001686769,0000637472,MPPS,21,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Matli,Matli,Thogatapalli,0000035163,0000637488,MPPS,35,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Nayunivaripalli,0000035173,0000637491,MPPS,5,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,"D Konetivandlapalli",0000035122,0000637653,MPPS,19,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Matli,Matli,"Matli Pedduru",0000035165,0000637693,ZPHS,130,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,Peraiahgaripalli,0000035057,0000639263,ZPHS,104,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Vanamkadapalli,0000035070,0000638979,"MPPS (U)",13,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Upparapalli,0000035071,0000639179,ZPHS,233,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Upparapalli,0000035071,0000639264,MPPS,89,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Tenkayachetlapalli,0000035077,0000639162,MPPS,23,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Battupalli,0000035104,0000639146,MPPS,22,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Edigapalli,0000035109,0000639149,MPPS,56,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,Kammapalli,0000035199,0000638236,MPPS,31,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,V.t.varipalli,0000035203,0000638228,MPPS,14,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Thatiguntapalli,0001685622,0000638445,MPPS,5,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,"E Nayunivaripalli",0000035115,0001603959,MPPS,26,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,Nagiri,0000035131,0000639777,MPPS,21,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,Kothavaddepalli,0000035145,0000639763,MPPS,23,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,D.rachapalli,Vongimalla,D.rachapalli,0001685635,0001722855,MPPS,11,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sangamvandlapalli,Peddiveedu,"Sangamvandla Palli",0001685646,0000639540,MPPS,37,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,D.rachapalli,Vongimalla,Vongimalla,0001687322,0000636903,MPPS(U),50,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sangamvandlapalli,Peddiveedu,Grandhevondlapalli,0001685640,0000637481,ZPHS,107,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Somavaram,Somavaram,Kammapalli,0000035090,0000637586,MPUPS,17,"Local Body","Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Peddiveed,Peddiveedu,Reddivaripalli,0000035154,0000637677,ZPHS,105,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,Yerrapapireddigaripalli,0000035048,0000639258,MPPS,22,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,Peraiahgaripalli,0000035057,0000639253,MPPS,33,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Somavaram,Somavaram,Vaddepalli,0000035091,0000638984,MPPS,40,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Veeraballi,0000035100,0000639026,"MPPS (U)",57,Govt.,"Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Madigapalli,0000035102,0000637949,MPPS,29,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Kothapalli,0000035180,0000638437,MPPS,24,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Seethampeta,0000035184,0000638441,MPPS,12,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,Madhavondlapalli,0000035063,0000640237,MPPS,28,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Nagireddipalli,0000035079,0001603929,MPPS,11,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,"Ctk Tugatapalli",0000035119,0000639761,MPPS,17,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,Madireddigaripalli,0000035124,0000639928,MPUPS,63,"Local Body","Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,Chemarthivandlapalli,0000035140,0000640043,MPPS,20,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Odiveedu,Odiveedu,"Odiveedu Kasba",0000035186,0000637496,"MPPS (T)",90,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Somavaram,Somavaram,Puttavandlapalli,0000035087,0000637589,MPUPS,28,"Local Body","Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Odiveedu,Odiveedu,Ramapuram,0000035188,0000637647,MPPS,23,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sangamvandlapalli,Peddiveedu,Mangalapalli,0001685642,0000637656,MPPS,25,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Matli,Matli,Vaddepalli,0001687299,0000637681,MPPS,39,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,"E Nayunivaripalli",0000035115,0000639187,MPPS,26,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,Lakkisettivandlapalli,0001692370,0000638239,MPPS,44,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,"Gadikota Kasba",0000035064,0000639685,"MPP (U)",43,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,Sandigaripalli,0000035127,0000639769,MPPS,18,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,Yedaballi,0001687282,0000639689,MPUPS,89,"Local Body","Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,D.rachapalli,Vongimalla,Vongimalla,0001687322,0002265485,MPUP,40,Govt.,"Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Nagireddipalli,0000035079,0000636894,MPPS,11,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,D.rachapalli,Vongimalla,P.madigapalli,0001687397,0000636911,MPUP,77,Govt.,"Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sangamvandlapalli,Peddiveedu,Grandhevondlapalli,0001685640,0000637478,MPPS,46,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Bongavandlapalli,0000035107,0000637946,MPPS,14,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Matli,Matli,Yellampalli,0000035162,0000637684,MPPS,42,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Somavaram,Somavaram,Thogatapalli,0000035096,0000638988,MPPS,28,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Odiveedu,Odiveedu,Kummarapalli,0000035190,0000638450,MPPS,46,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Odiveedu,Odiveedu,Yerramrajugaripalli,0000035192,0000638448,MPPS,39,"Local Body","Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Balasanivandlapalli,0000035105,0000639745,MPPS,7,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gurrappagaripalli,Veeraballi,Chemarthivandlapalli,0000035140,0000639933,ZPHS,89,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,D.rachapalli,Vongimalla,Kallevondlapalli,0001687400,0001722895,MPPS,20,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,Lakkisettivandlapalli,0001692370,0000634435,ZPHS,286,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Poluchennareddigaripalli,0000035075,0000636906,MPPS,12,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Shikaripalem,0001685623,0000637492,MPPS,89,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sangamvandlapalli,Peddiveedu,Neelavondlapalli,0001685643,0000637476,MPPS,22,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Reddivaripalli,0001687307,0000637490,MPPS,36,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Veeraballi,0000035100,0000637943,"MPPS (T)",81,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Peddiveed,Peddiveedu,Madigapalli,0000035153,0000637672,MPPS,21,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Peddiveed,Peddiveedu,Reddivaripalli,0000035154,0000637675,MPPS,33,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Peddiveed,Peddiveedu,Kothapalli,0000035155,0000637664,MPPS,21,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Matli,Matli,"Matli Pedduru",0000035165,0000637689,MPPS,24,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Odiveedu,Odiveedu,"Odiveedu Kasba",0000035186,0000637499,"MPUPS (U)",65,"Local Body","Upper Primary with grades 1 to 8",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,Velpulamitta,0000035059,0000639257,MPPS,37,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Gadikota,Gadikota,"Gadikota Kasba",0000035064,0000639261,"MPPS (T)",19,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,Polimerapalli,0000035072,0000638411,MPPS,26,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Vongimalla,Vongimalla,B.madigapalli,0000035074,0000639383,MPPS,34,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Thatiguntapalli,Matli,Seethampeta,0000035184,0000638444,"MPPS (U)",12,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Odiveedu,Odiveedu,Yerramrajugaripalli,0000035192,0000638452,ZPHS,144,"Local Body","Secondary/Sr. Sec. with grades 1 to 10",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,Rachapalli,0000035197,0000638454,MPPS,24,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,Krishnamaiahgaripalli,0000035205,0000638230,MPPS,35,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Sanipaya,Sanipaya,Anchelavaripalli,0000035209,0000638232,MPPS,11,"Local Body","Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Kothavaddepalli,0001685621,0000639344,MPPS,19,Govt.,"Primary only with grades 1 to 5",2022-11-25
+"Andhra Pradesh",Kadapa,Veeraballi,Veeraballi,Veeraballi,Veeraballi,0000035100,0000639756,Z.P.H.S,375,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2022-11-25

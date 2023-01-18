@@ -1,0 +1,95 @@
+state_name,district_name,block_name,panchayat_name,village_name,habitation_name,habitation_id,school_id,school_name,no_of_student,school_category,school_subcategory,update_date
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Vii",0000417222,0000354837,"Bekal GFLPS",117,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xviii",0000417233,0000354842,"Kallingal GLPS",79,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xxiii",0001863116,0000354841,"GLPS Mukkot",119,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward V",0000417238,0002464077,"GFUPS MANIKOTH",175,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Xii",0000417245,0002464269,"GLPS MUCHILOT",93,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward Xvii",0000417319,0001990776,"GHSS PALLIKKARE",1161,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Pullur,"Ward Viii",0000417342,0000354886,"GUPS Pullur",599,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,Bare,"Ward V",0000417220,0002522047,"GWLPS BARE",140,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward X",0000417225,0002592901,"GREENWOOD PUBLIC SCHOOL",2000,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xi",0000417226,0002522118,"GLPS MUDIAKKAL",96,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Iii",0000417231,0002592086,"CHACHAJIN EMS",100,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Vi",0000417239,0002464482,"SMAUPS PANAYAL",404,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Ix",0000417299,0002464697,"GUPS MADIKAI ALAMPADY",151,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Xv",0001832173,0002488762,"AMBEDKAR VIDYANIKETHAN HSS PERIYA",249,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Keekan,"Ward Xx",0001833155,0002558053,"ISLAMIC EMS HSS PALLIKKARE",775,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xvi",0001833160,0002522002,"GFUPS KOTTIKKULAM",109,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xvi",0001833160,0002558073,"NOORUL HUDHA EMS",708,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xx",0001833164,0002488908,"AMBIKA ALPS UDMA",383,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Viii",0000417223,0000354838,"GLPS Uduma",156,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Xiii",0000417246,0000354845,"GUPS Puthiyakandam",104,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Xiii",0000417246,0000354846,"Ajanur MappilaGLPS Manikoth",300,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Ambalathara,"Ward I",0000417289,0000354861,"GLPS vayakode",81,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Ix",0000417299,0000354868,"Keekankode GLPS",69,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Vi",0000417239,0002290562,"IHSS AJANUR",1096,"Govt. Aided","Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Iv",0000417294,0002059723,"GUPS POOTHAKKAL",275,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward X",0000417306,0001990692,"GHSS PAKKAM",322,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward Xvi",0000417312,0000354875,"Chettankundu Kadappuram GLPS",60,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Pullur,"Ward X",0000417344,0001990593,"GHSS PERIYA",1400,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xiv",0001833158,0002292654,"BEKAL GFHS",300,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xxi",0001863112,0002290708,"JHSS CHITHARI",500,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xii",0000417227,0002489006,"GLPS THIRUVAKOLI",86,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xiii",0000417228,0002522083,"ALPS BEKAL",87,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xvii",0000417232,0002592052,"SREE KURUMBA EMS",79,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Vii",0000417297,0002464727,"GLPS CHERNATHALA",78,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Ii",0000417332,0002488482,"GUPS AYAMBARE",130,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Xi",0000417334,0002631078,"LITTLE BIRDS ENGLISM MEDIUM SCHOOL",100,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xxi",0001863112,0002476618,"HIAUPS CHITHARI",440,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xviii",0001833162,0000354839,"GUPS Kottikulam",138,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Vii",0000417240,0000354844,"Mahakavi P Smaraka GVHSS BELLOKKOTH",1277,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Vi",0000417296,0000354865,"Malapancherry GLPS",87,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward X",0000417306,0000354871,"Cherkapara GLPS",75,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,Bare,"Ward Vi",0000417221,0001988387,"GHS BARE",1139,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xviii",0000417233,0002464420,"CRESCENT SCHOOL CBSE",1300,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward I",0000417331,0000354882,"GVHSS Kuniya",825,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Xvi",0001832174,0000354884,"GLPS Periya",460,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,Bare,"Ward Iv",0000417219,0002521894,"GLPS ARAMANGANAM",75,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Viii",0000417223,0002592888,"MGLC NHEKLI",10,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward X",0000417225,0002521945,"ALPS KARIPODY",150,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xiii",0000417228,0002592999,"DUNE SCHOOL",160,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Xvi",0000417249,0002591511,"VIVEKANANDA VIDYALAYAM KOLAVAYAL",54,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward Vii",0000417303,0002488395,"GLPS PANAYAL",136,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward I",0000417331,0002558554,"jawahar navodhaya kasaragod",580,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Iii",0000417333,0002488533,"MGLC PULIKKAL",21,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Pullur,"Ward V",0000417339,0002521638,"GHSS KALLIOT",515,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Pullur,"Ward V",0000417339,0002558065,"URSULINE PUBLIC SCHOOL KANHIRADUKKAM",432,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Keekan,"Ward Xxii",0001833157,0002521511,"GUPS AGASARAHOLE",146,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward X",0000417306,0002788109,"GHS PAKKAM",500,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward I",0000417229,0000354840,"GHSS, Ravaneswaram",1000,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Ix",0000417299,0000354867,"GHSS Kakkad",2000,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,Bare,"Ward Vi",0000417221,0001988196,"GHSS UDHUMA",1800,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward X",0000417243,0002292097,"RAMNAGAR SKMGHWHS",606,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,Bare,"Ward Ii",0000417217,0002489043,"ISLAMIA ALPS UDMA",518,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Iv",0000417237,0002556667,"KHM EMS MANIKOTH",650,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward Ix",0000417305,0002592434,"JAMA ATH EMS CHERUMBA",100,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward Ix",0000417305,0002592453,"MGLC BENGAD",20,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward I",0000417308,0002488179,"ISLAMIA ALPS BEKAL",308,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward Xv",0000417311,0002521584,"GUPS KEEKKAN",150,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward Xvi",0000417312,0002488336,"GMUPS PALLIKKARA",720,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Xvi",0001832174,0002592118,"DEIGRATIA EMS",140,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,"Pallikkara Ii","Ward Xvii",0001833161,0002592875,"AMBIKA EMS PALAKKUNNU",494,Private,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xxii",0001863114,0002592071,"AZEEZIYA EMS CHITHARI",413,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Xix",0000417234,0000354843,"GLPS Chithari",76,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Ambalathara,"Ward Iii",0000417291,0000354862,"GHS Kanhiarapoli",409,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Madikkai,"Ward Iv",0000417294,0000354866,"Madikkai II GHS",470,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward V",0000417301,0000354870,"GHS Thachangad",1400,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward I",0000417308,0000354873,"Karcheri GUPS",215,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward Xvii",0000417319,0000354874,"Palikkara GWLPS",132,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Ambalathara,"Ward Xv",0001803887,0000354864,"Madikkali GHSS",900,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Iii",0000417231,0002464013,"GUPS VELESHWARAM",229,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Chithari,"Ward Xvii",0000417232,0002464320,"GFUPS AJANUR",178,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Iv",0000417237,0002464132,"GLPS MADIYAN",57,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Iii",0000417333,0000354883,"GVHSS Ambalathara",1000,Govt.,"Higher Secondary with grades 1 to 12",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Periya,"Ward Xiii",0000417336,0000354885,"GHS Pullur Eriya",420,Govt.,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Pullur,"Ward X",0000417344,0000354887,"Chalingal LPS",173,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,"Pullur Periya",Pullur,"Ward X",0000417344,0001990541,"UNHS PULLUR",500,"Govt. Aided","Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Ajanur,Ajanur,"Ward Xiv",0000417247,0002591482,"GMLPS AJANUR",244,Govt.,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Madikkai,Ambalathara,"Ward Iii",0000417291,0002464570,"VRINDAVAN EMS NANDAPURAM",60,Private,"Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward Iv",0000417300,0002521458,"RALPS MOWAL",271,"Govt. Aided","Primary only with grades 1 to 5",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward Vi",0000417302,0002592477,"ST MARYS PERIYATTADUKKAM CBSE",327,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Panayal,"Ward Vi",0000417302,0002743521,"SMAUPS PANAYAL",410,"Govt. Aided","Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Pallikkara,"Ward I",0000417308,0002592488,"KHILIRIYA JEMS BEKAL KUNNIL",161,Private,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Keekan,"Ward Xiv",0000417317,0002521433,"GUPS KOOTTAKKANI",437,Govt.,"Upper Primary with grades 1 to 8",2023-01-18
+Kerala,Kasaragod,Kanhangad,Pallikare,Keekan,Wardxxi,0001833156,0002592511,"ST MARYS EMS",570,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
+Kerala,Kasaragod,Kanhangad,Uduma,Bare,"Ward I",0001863143,0002488830,"UDHMA PADINHAR JEM SCHOOL",396,Private,"Secondary/Sr. Sec. with grades 1 to 10",2023-01-18
