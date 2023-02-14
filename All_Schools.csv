@@ -1,0 +1,175 @@
+1,States/UTs,Management,Boys,Girls,Co-Educational,Total
+2,Andaman and Nicobar Islands,Government,0,1,338,339
+3,Andaman and Nicobar Islands,Private,0,0,72,72
+4,Andaman and Nicobar Islands,Aided,0,0,2,2
+5,Andaman and Nicobar Islands,Others,0,0,1,1
+6,Andaman and Nicobar Islands,Total,0,1,413,414
+7,Andhra Pradesh,Government,459,1027,43527,45013
+8,Andhra Pradesh,Private,30,81,15751,15862
+9,Andhra Pradesh,Aided,23,91,2232,2346
+10,Andhra Pradesh,Others,65,43,292,400
+11,Andhra Pradesh,Total,577,1242,61802,63621
+12,Arunachal Pradesh,Government,0,78,3101,3179
+13,Arunachal Pradesh,Private,1,3,499,503
+14,Arunachal Pradesh,Aided,3,8,53,64
+15,Arunachal Pradesh,Others,0,0,47,47
+16,Arunachal Pradesh,Total,4,89,3700,3793
+17,Assam,Government,84,500,46639,47223
+18,Assam,Private,20,54,6010,6084
+19,Assam,Aided,4,356,4705,5065
+20,Assam,Others,65,130,7757,7952
+21,Assam,Total,173,1040,65111,66324
+22,Bihar,Government,149,679,71762,72590
+23,Bihar,Private,8,153,5870,6031
+24,Bihar,Aided,12,41,636,689
+25,Bihar,Others,14,44,9151,9209
+26,Bihar,Total,183,917,87419,88519
+27,Chandigarh,Government,0,0,121,121
+28,Chandigarh,Private,1,2,71,74
+29,Chandigarh,Aided,0,1,6,7
+30,Chandigarh,Others,0,0,27,27
+31,Chandigarh,Total,1,3,225,229
+32,Chhattisgarh,Government,982,1249,46440,48671
+33,Chhattisgarh,Private,10,25,6807,6842
+34,Chhattisgarh,Aided,47,54,333,434
+35,Chhattisgarh,Others,12,9,306,327
+36,Chhattisgarh,Total,1051,1337,53886,56274
+37,Dadra and Nagar Haveli,Government,0,1,299,300
+38,Dadra and Nagar Haveli,Private,0,0,35,35
+39,Dadra and Nagar Haveli,Aided,0,0,10,10
+40,Dadra and Nagar Haveli,Others,0,0,1,1
+41,Dadra and Nagar Haveli,Total,0,1,345,346
+42,Daman and Diu,Government,5,6,101,112
+43,Daman and Diu,Private,0,0,23,23
+44,Daman and Diu,Aided,0,0,4,4
+45,Daman and Diu,Others,1,0,0,1
+46,Daman and Diu,Total,6,6,128,140
+47,Delhi,Government,892,798,1094,2784
+48,Delhi,Private,6,23,2637,2666
+49,Delhi,Aided,74,59,120,253
+50,Delhi,Total,972,880,3851,5703
+51,Goa,Government,0,0,833,833
+52,Goa,Private,2,0,137,139
+53,Goa,Aided,10,10,494,514
+54,Goa,Total,12,10,1464,1486
+55,Gujarat,Government,1014,1216,32972,35202
+56,Gujarat,Private,215,298,13128,13641
+57,Gujarat,Aided,132,360,5242,5734
+58,Gujarat,Others,1,1,2,4
+59,Gujarat,Total,1362,1875,51344,54581
+60,Haryana,Government,664,1241,12611,14516
+61,Haryana,Private,29,41,7843,7913
+62,Haryana,Aided,1,2,23,26
+63,Haryana,Others,4,1,1074,1079
+64,Haryana,Total,698,1285,21551,23534
+65,Himachal Pradesh,Government,32,71,15330,15433
+66,Himachal Pradesh,Private,3,4,2771,2778
+67,Himachal Pradesh,Others,0,0,1,1
+68,Himachal Pradesh,Total,35,75,18102,18212
+69,Jammu and Kashmir,Government,203,455,23422,24080
+70,Jammu and Kashmir,Private,13,18,5521,5552
+71,Jammu and Kashmir,Aided,24,3,2,29
+72,Jammu and Kashmir,Others,3,1,43,47
+73,Jammu and Kashmir,Total,243,477,28988,29708
+74,Jharkhand,Government,143,493,35318,35954
+75,Jharkhand,Private,12,89,1299,1400
+76,Jharkhand,Aided,74,117,986,1177
+77,Jharkhand,Others,47,44,7286,7377
+78,Jharkhand,Total,276,743,44889,45908
+79,Karnataka,Government,418,920,48846,50184
+80,Karnataka,Private,57,260,20287,20604
+81,Karnataka,Aided,65,313,7039,7417
+82,Karnataka,Others,6,1,21,28
+83,Karnataka,Total,546,1494,76193,78233
+84,Kerala,Government,29,63,4919,5011
+85,Kerala,Private,4,19,3133,3156
+86,Kerala,Aided,47,152,6996,7195
+87,Kerala,Others,0,2,1337,1339
+88,Kerala,Total,80,236,16385,16701
+89,Lakshadweep,Government,0,0,45,45
+90,Lakshadweep,Total,0,0,45,45
+91,Madhya Pradesh,Government,3639,4989,113428,122056
+92,Madhya Pradesh,Private,67,84,28954,29105
+93,Madhya Pradesh,Aided,35,59,780,874
+94,Madhya Pradesh,Others,15,19,1915,1949
+95,Madhya Pradesh,Total,3756,5151,145077,153984
+96,Maharashtra,Government,759,926,64348,66033
+97,Maharashtra,Private,73,155,19172,19400
+98,Maharashtra,Aided,170,742,22642,23554
+99,Maharashtra,Others,32,23,900,955
+100,Maharashtra,Total,1034,1846,107062,109942
+101,Manipur,Government,3,18,3052,3073
+102,Manipur,Private,1,6,996,1003
+103,Manipur,Aided,1,14,572,587
+104,Manipur,Others,2,1,178,181
+105,Manipur,Total,7,39,4798,4844
+106,Meghalaya,Government,3,27,7772,7802
+107,Meghalaya,Private,7,15,2198,2220
+108,Meghalaya,Aided,7,43,4131,4181
+109,Meghalaya,Others,0,0,466,466
+110,Meghalaya,Total,17,85,14567,14669
+111,Mizoram,Government,1,2,2561,2564
+112,Mizoram,Private,0,1,1024,1025
+113,Mizoram,Aided,0,2,229,231
+114,Mizoram,Others,0,0,93,93
+115,Mizoram,Total,1,5,3907,3913
+116,Nagaland,Government,1,0,2006,2007
+117,Nagaland,Private,0,3,742,745
+118,Nagaland,Total,1,3,2748,2752
+119,Odisha,Government,77,367,55039,55483
+120,Odisha,Private,7,148,4802,4957
+121,Odisha,Aided,9,339,5422,5770
+122,Odisha,Others,7,33,2467,2507
+123,Odisha,Total,100,887,67730,68717
+124,Puducherry,Government,20,27,376,423
+125,Puducherry,Private,1,4,278,283
+126,Puducherry,Aided,3,3,27,33
+127,Puducherry,Total,24,34,681,739
+128,Punjab,Government,206,385,18813,19404
+129,Punjab,Private,5,81,8409,8495
+130,Punjab,Aided,9,24,425,458
+131,Punjab,Others,4,12,264,280
+132,Punjab,Total,224,502,27911,28637
+133,Rajasthan,Government,12,998,66568,67578
+134,Rajasthan,Private,7,158,35438,35603
+135,Rajasthan,Others,0,21,2472,2493
+136,Rajasthan,Total,19,1177,104478,105674
+137,Sikkim,Government,73,5,776,854
+138,Sikkim,Private,3,0,414,417
+139,Sikkim,Aided,5,1,13,19
+140,Sikkim,Total,81,6,1203,1290
+141,Tamil Nadu,Government,363,629,36736,37728
+142,Tamil Nadu,Private,44,86,12309,12439
+143,Tamil Nadu,Aided,258,429,7668,8355
+144,Tamil Nadu,Others,0,1,629,630
+145,Tamil Nadu,Total,665,1145,57342,59152
+146,Telangana,Government,478,1132,28212,29822
+147,Telangana,Private,21,79,11521,11621
+148,Telangana,Aided,12,69,626,707
+149,Telangana,Others,38,30,137,205
+150,Telangana,Total,549,1310,40496,42355
+151,Tripura,Government,8,29,4272,4309
+152,Tripura,Private,2,2,339,343
+153,Tripura,Aided,2,0,44,46
+154,Tripura,Others,2,0,245,247
+155,Tripura,Total,14,31,4900,4945
+156,Uttar Pradesh,Government,564,1864,160714,163142
+157,Uttar Pradesh,Private,199,1326,85908,87433
+158,Uttar Pradesh,Aided,248,586,7256,8090
+159,Uttar Pradesh,Others,291,560,13719,14570
+160,Uttar Pradesh,Total,1302,4336,267597,273235
+161,Uttarakhand,Government,81,255,16598,16934
+162,Uttarakhand,Private,18,40,5461,5519
+163,Uttarakhand,Aided,35,41,540,616
+164,Uttarakhand,Others,5,11,474,490
+165,Uttarakhand,Total,139,347,23073,23559
+166,West Bengal,Government,875,2526,79475,82876
+167,West Bengal,Private,140,177,11460,11777
+168,West Bengal,Aided,19,18,90,127
+169,West Bengal,Others,72,100,2876,3048
+170,West Bengal,Total,1106,2821,93901,97828
+171,India,Government,12237,22977,1048464,1083678
+172,India,Private,1006,3435,321319,325760
+173,India,Aided,1329,3937,79348,84614
+174,India,Others,686,1087,54181,55954
+175,India,Total,15258,31436,1503312,1550006
